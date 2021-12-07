@@ -8,10 +8,37 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "KinematicBody2D",
+"class": "Actor",
+"language": "GDScript",
+"path": "res://Scripts/ActorMovement.gd"
+} ]
+_global_script_class_icons={
+"Actor": ""
+}
+
 [application]
 
 config/name="RavenousEthelNew"
+run/main_scene="res://Scenes/MainScene.tscn"
 config/icon="res://icon.png"
+
+[global]
+
+type_=false
+hint=false
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
+
+[layer_names]
+
+2d_physics/layer_1="player"
+2d_physics/layer_2="enemies"
+2d_physics/layer_3="coins"
+2d_physics/layer_4="world"
 
 [physics]
 

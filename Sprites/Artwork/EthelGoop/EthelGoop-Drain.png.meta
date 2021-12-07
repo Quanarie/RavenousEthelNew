@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 711ebe1431468ad4eb0a2f9ea28bdee2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5778997980087526228
+    second: EthelGoop-Drain_0
+  - first:
+      213: 4566875601472995047
+    second: EthelGoop-Drain_1
+  - first:
+      213: -622284927506543498
+    second: EthelGoop-Drain_2
+  - first:
+      213: -8767968125452426526
+    second: EthelGoop-Drain_3
+  - first:
+      213: -4950632461163579693
+    second: EthelGoop-Drain_4
+  - first:
+      213: -1308712616820943653
+    second: EthelGoop-Drain_5
+  - first:
+      213: -9106949240040888908
+    second: EthelGoop-Drain_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EthelGoop-Drain_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 89
+        width: 37
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.104013115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacde2f94ffdccfa0800000000000000
+      internalID: -5778997980087526228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EthelGoop-Drain_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 89
+        width: 52
+        height: 27
+      alignment: 9
+      pivot: {x: 0.51381123, y: 0.22875497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee3237c92dc06f30800000000000000
+      internalID: 4566875601472995047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EthelGoop-Drain_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 90
+        width: 45
+        height: 33
+      alignment: 9
+      pivot: {x: 0.48103875, y: 0.18616901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c84eac7233d57f0800000000000000
+      internalID: -622284927506543498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EthelGoop-Drain_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4822235, y: 0.33232775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e570d17be15680800000000000000
+      internalID: -8767968125452426526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EthelGoop-Drain_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 11
+        width: 54
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5079798, y: 0.37176573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6b3d29102db4bb0800000000000000
+      internalID: -4950632461163579693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EthelGoop-Drain_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 13
+        width: 54
+        height: 51
+      alignment: 9
+      pivot: {x: 0.49710083, y: 0.3622463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4d0511fc486dde0800000000000000
+      internalID: -1308712616820943653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EthelGoop-Drain_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b569d7baed9d9180800000000000000
+      internalID: -9106949240040888908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 74f0ad4978d919e4990469a1ae83f800
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EthelGoop-Drain_0: -5778997980087526228
+      EthelGoop-Drain_1: 4566875601472995047
+      EthelGoop-Drain_2: -622284927506543498
+      EthelGoop-Drain_6: -9106949240040888908
+      EthelGoop-Drain_3: -8767968125452426526
+      EthelGoop-Drain_4: -4950632461163579693
+      EthelGoop-Drain_5: -1308712616820943653
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
